@@ -1,5 +1,5 @@
-# cloudreve_repl
-Deploy cloudreve on Replit.
+# [cloudreve](https://github.com/cloudreve/Cloudreve)_repl
+Deploy [cloudreve](https://docs.cloudreve.org/) on [Replit](https://replit.com).
 ## usage
 Blank Repl
 ```bash
